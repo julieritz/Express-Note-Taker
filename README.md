@@ -36,4 +36,3 @@ None- use console.log if you need to troubleshoot something.
 Reach out to me if you have any questions!
 
 ![image](https://user-images.githubusercontent.com/60047114/82133513-f25e0c00-97a1-11ea-9b18-28954ff840de.png)
-
